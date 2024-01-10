@@ -23,4 +23,4 @@ OpenWeatherMap & OpenCageData API
 
 
 <h2>Live Demo</h2>
-[click here](https://avatargujjar.github.io/weatherapp/)
+[click here](https://avatargujjar.github.io/Weather-App/)
